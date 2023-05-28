@@ -1,11 +1,3 @@
-"""
-Gabriel Machado Belardino - RM550121
-Ana Beatriz Farah Alvez - RM97865
-Kaiky Alvaro de Miranda - RM98118
-Lucas Rodrigues da Silva - RM98344
-Pedro Henrique Bicas Couto - RM99534"""
-
-
 # Definindo uma lista vazia para armazenar as NFs
 pagamentos = []
 recebimentos = []
